@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    1rd year Information Technology student in <a href="http://www.faeterj-petropolis.edu.br/">Faeterj Petrópolis</a>. Currently working as a Contributor in <a href="https://www.linkedin.com/company/mentorapp/">MentorApp</a>. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Develpepment and Data Analysis.
+    1rd year Information Technology student in <a href="http://www.faeterj-petropolis.edu.br/">Faeterj Petrópolis</a>. Currently working as a collaborator in <a href="https://www.linkedin.com/company/mentorapp/">MentorApp</a>. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Develpepment and Data Analysis.
   </em>  
 </p>
 
