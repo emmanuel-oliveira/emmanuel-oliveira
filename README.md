@@ -35,7 +35,7 @@
 ## Social:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oliveira-emmanuel/">
+  <a href="https://www.linkedin.com/in/emmanuel-oliveiras">
     <img align="left" alt="Emmanuel Oliveira | Linkedin" height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
 </div>
