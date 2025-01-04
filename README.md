@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Objective-driven Junior Back-End Developer at <a href="https://www.linkedin.com/company/mentorapp/">MentorApp</a> Experienced in cloud infrastructure, machine learning, generative AI, recommendation systems, and web API design. Passionate about generative AI, cloud computing, open source, and innovative technologies. Also skilled in both front-end and back-end development, containerization, server management, and support.
+    Tech Designer at <a href="https://www.linkedin.com/company/wefitoficial/">Wefit</a> Experienced in cloud infrastructure, machine learning, generative AI, recommendation systems, and web API design. Passionate about generative AI, cloud computing, open source, and innovative technologies. Also skilled in both front-end and back-end development, containerization, server management, and support.
   </em>  
 </p>
 
