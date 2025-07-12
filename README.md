@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Software Developer at <a href="https://www.linkedin.com/company/wefitoficial/">Wefit</a> Experienced in cloud infrastructure, machine learning, generative AI, recommendation systems, and web API design. Passionate about generative AI, cloud computing, open source, and innovative technologies. Also skilled in back-end development, containerization, server management.
+    Software Developer at <a href="https://www.linkedin.com/company/wefitoficial/">WeFit</a> Experienced in cloud infrastructure, machine learning, generative AI, recommendation systems, and web API design. Passionate about generative AI, cloud computing, open source, and innovative technologies. Also skilled in back-end development, containerization, server management.
   </em>  
 </p>
 
